@@ -1,15 +1,19 @@
 ```ansi
-┌─[ Alan "ReeseArch64" Guerra ]
-│  Engenheiro de Software · 11+ anos de XP
-│  Criador de conteúdo · Arquiteto de caos digital
+┌─[ Alan Guerra ]
+│  Software Engineer  · 11+ years Xp
+│  Content Creator · Digital Chaos Architect · Automating Everything
 └───────────────────────────────────────────────
 ````
 
+<div align="center">
+  <img src="assets/profile.jpg" alt="Alan Guerra" width="200" style="border-radius: 50%;"/>
+</div>
+
 ## 🧑‍💻 whoami
 
-* Software Engineer Sênior (Frontend + Backend + Infra)
-* Já quebrei produção em 🇧🇷 🇪🇸 🇫🇮 🇦🇷 (e arrumei depois 🛠️)
-* Obcecado por **sistemas distribuídos**, **UI/UX** e **low-level hacking**
+* Software Engineer (Frontend + Backend + Infra)
+* I have worked in the following countries 🇧🇷 🇪🇸 🇫🇮 🇦🇷 🇵🇹
+* Obsessed with **distributed systems** and **AI automation**
 * Linux user since ever (Arch btw 🐧)
 
 ---
@@ -18,11 +22,12 @@
 
 ```bash
 $ techstack --list
-- Languages:   JS, TS, Java, Go, Python, Lua
-- Frontend:    React, Next.js, Angular
+
+- Languages:   JS, TS, CSharp, Go, Python
+- Frontend:    React, Next.js, Angular, Bootstrap, Tailwind CSS
 - Backend:     NestJS, Elysia, Bun, Node.js
 - Infra:       Docker, K8s, AWS, RabbitMQ, Redis
-- DBs:         PostgreSQL, Prisma, Drizzle
+- DBs:         PostgreSQL, Prisma, Drizzle, MongoDB
 ```
 
 ---
@@ -39,11 +44,18 @@ $ techstack --list
 ## 🌐 social
 
 ```text
-[~] Portfolio   → seu-portfolio.com
+[~] Portfolio   → reesearch64.tech
 [~] YouTube     → youtube.com/@reesearch64
-[~] LinkedIn    → linkedin.com/in/seuperfil
+[~] LinkedIn    → linkedin.com/in/reesearch64
 [~] Twitter/X   → twitter.com/reesearch64
 ```
+
+![Background](./assets/me.png)
+
+<div align="center">
+  <img src="assets/qrcode-whatsapp.png" alt="WhatsApp QR Code" width="150"/>
+  <p><em>Scan to connect on WhatsApp</em></p>
+</div>
 
 ---
 

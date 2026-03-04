@@ -34,8 +34,3 @@
 > "Talk is cheap. Show me the code."
        – Linus Torvalds
 ```
-
-<div align="center">
-  <img src="./assets/qrcode-whatsapp-business.png" alt="WhatsApp QR Code" width="150"/>
-  <p><em>Scan to connect on WhatsApp</em></p>
-</div>

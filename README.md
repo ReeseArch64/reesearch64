@@ -1,4 +1,4 @@
-![Banner](./assets/banner.gif)
+![Banner](https://i.ytimg.com/vi/SrwMk2JurX0/maxresdefault.jpg)
 
 <h1 align="center">Hi 👋, I'm ReeseArch64</h1>
 
